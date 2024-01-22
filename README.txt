@@ -54,10 +54,4 @@ Inserting an element into the last index.
 Reading an element from a specific index.
 The code measures the time taken to execute these tasks using sample data files (1Mint.txt and 50Mint.txt).
 
-#Prepared by
 
-Mustafa Erdem Gulsoy (20050111055)
-Erencan Yakut (20050111045)
-Onurhan Emin Bartal (20050111052)
-Furkan Yılmaz (200200511081)
-Emre Geçitli (2005011031)
